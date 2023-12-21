@@ -1,0 +1,157 @@
+﻿<Window x:Class="WpfApp12.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp12"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="900">
+    <StackPanel>
+        <UniformGrid>
+            <Button Click="Button_Click"
+                    x:Name="btn1">
+            <Image Source="grafika/brak.jpg"
+                   Margin="10"
+                   Height="100"
+                   Width="200"
+                   x:Name="rys1"
+                   />
+            </Button>
+            <Button Click="Button_Click"
+                    x:Name="btn2">
+            <Image Source="grafika/brak.jpg"
+                   Margin="10"
+                   Height="100"
+                   Width="200"
+                   x:Name="rys2"
+                   />
+            </Button>
+            <Button Click="Button_Click"
+                    x:Name="btn3">
+                <Image Source="grafika/brak.jpg"
+                   Margin="10"
+                   Height="100"
+                   Width="200"
+                   x:Name="rys3"
+                   />
+            </Button>
+            <Button Click="Button_Click"
+                    x:Name="btn4">
+            <Image Source="grafika/brak.jpg"
+                   Margin="10"
+                   Height="100"
+                   Width="200"
+                   x:Name="rys4"
+                   />
+            </Button>
+            <Button Click="Button_Click"
+                    x:Name="btn5">
+                <Image Source="grafika/brak.jpg"
+                   Margin="10"
+                   Height="100"
+                   Width="200"
+                   x:Name="rys5"
+                   />
+            </Button>
+            <Button Click="Button_Click"
+                    x:Name="btn6">
+                <Image Source="grafika/brak.jpg"
+                   Margin="10"
+                   Height="100"
+                   Width="200"
+                   x:Name="rys6"
+                   />
+            </Button>
+            <Button Click="Button_Click"
+                    x:Name="btn7">
+                <Image Source="grafika/brak.jpg"
+                   Margin="10"
+                   Height="100"
+                   Width="200"
+                   x:Name="rys7"
+                   />
+            </Button>
+            <Button Click="Button_Click"
+                    x:Name="btn8">
+                <Image Source="grafika/brak.jpg"
+                   Margin="10"
+                   Height="100"
+                   Width="200"
+                   x:Name="rys8"
+                   />
+            </Button>
+            <Button Click="Button_Click"
+                    x:Name="btn9">
+                <Image Source="grafika/brak.jpg"
+                   Margin="10"
+                   Height="100"
+                   Width="200"
+                   x:Name="rys9"
+                   />
+            </Button>
+            <Button Click="Button_Click"
+                    x:Name="btn10">
+                <Image Source="grafika/brak.jpg"
+                   Margin="10"
+                   Height="100"
+                   Width="200"
+                   x:Name="rys10"
+                   />
+            </Button>
+            <Button Click="Button_Click"
+                    x:Name="btn11">
+                <Image Source="grafika/brak.jpg"
+                   Margin="10"
+                   Height="100"
+                   Width="200"
+                   x:Name="rys11"
+                   />
+            </Button>
+            <Button Click="Button_Click"
+                    x:Name="btn12">
+                <Image Source="grafika/brak.jpg"
+                   Margin="10"
+                   Height="100"
+                   Width="200"
+                   x:Name="rys12"
+                   />
+            </Button>
+            <Button Click="Button_Click"
+                    x:Name="btn13">
+                <Image Source="grafika/brak.jpg"
+                   Margin="10"
+                   Height="100"
+                   Width="200"
+                   x:Name="rys13"
+                   />
+            </Button>
+            <Button Click="Button_Click"
+                    x:Name="btn14">
+                <Image Source="grafika/brak.jpg"
+                   Margin="10"
+                   Height="100"
+                   Width="200"
+                   x:Name="rys14"
+                   />
+            </Button>
+            <Button Click="Button_Click"
+                    x:Name="btn15">
+                <Image Source="grafika/brak.jpg"
+                   Margin="10"
+                   Height="100"
+                   Width="200"
+                   x:Name="rys15"
+                   />
+            </Button>
+            <Button Click="Button_Click"
+                    x:Name="btn16">
+                <Image Source="grafika/brak.jpg"
+                   Margin="10"
+                   Height="100"
+                   Width="200"
+                   x:Name="rys16"
+                   />
+            </Button>
+        </UniformGrid>
+    </StackPanel>
+</Window>
